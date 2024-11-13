@@ -1,5 +1,5 @@
 package conflicts.c2;
 
 public class c2 {
-    int a = 12;
+    int a = 121;
 }
